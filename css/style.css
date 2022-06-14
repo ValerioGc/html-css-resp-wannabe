@@ -127,16 +127,14 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
-
 @media screen and (max-width:768px) {
     .lessons.col {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     .container {
         width: 100%;
     }
 }
-
 @media screen and (max-width:480px) {
     .container {
         width: 90%;
@@ -155,5 +153,12 @@ img {
     }
     .steps .col:first-child {
         margin-top: 0;
+    }
+    .why-us .col {
+        width: 100%;
+        font-size: 1.2rem;
+    }
+    .why-us .col-right {
+        margin-top: 70px;
     }
 }
