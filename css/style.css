@@ -127,6 +127,11 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+@media screen and (min-width:769px) {
+    .steps {
+        min-width: 1140px;
+    }
+}
 @media screen and (max-width:768px) {
     .lessons.col {
         font-size: 1.2rem;
