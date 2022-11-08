@@ -35,12 +35,20 @@
 
   <img src="/previews/preview-wannabe.png" alt="preview1" /> 
 
+  <br/>
+  
   <img src="/previews/preview-wannabe2.png" alt="preview2" /> 
 
+  <br/>
+  
   <img src="/previews/preview-wannabe-sm1.png" alt="preview3" /> 
 
+  <br/>
+  
   <img src="/previews/preview-wannabe-sm2.png" alt="preview4" /> 
   
+  <br/>
+    
   <img src="/previews/preview-wannabe-sm3.png" alt="preview5" /> 
 
 
